@@ -1,7 +1,7 @@
 <template>
   <div id="menu">
     <div ><router-link to="/form-categoria/Categorias">Categoria</router-link></div>
-    <div><router-link to="/form-usuario/Usuário">Usuário</router-link></div>
+    <div><router-link to="/form-usuario/Usuario">Usuário</router-link></div>
   </div>
   <router-view></router-view>
 </template>
